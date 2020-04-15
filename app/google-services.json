@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "623925949106",
+    "firebase_url": "https://kazani-329cd.firebaseio.com",
+    "project_id": "kazani-329cd",
+    "storage_bucket": "kazani-329cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623925949106:android:8251f208b48af41e",
+        "android_client_info": {
+          "package_name": "berkancalikoglu.com.youtubemagazin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623925949106-m2fl8j3fta1luks6904i2q781in2qcks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQTi7iTRPgSL46eelhHqQymcaBrjNrEsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

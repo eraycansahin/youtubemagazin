@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Youtube Kazanı</string>
+    <string name="backdrop_title">Youtube Magazin</string>
+    <string name="backdrop_subtitle"> </string>
+    <string name="action_settings">Settings</string>
+    <string name="action_edit">Bu tarz haberler görmek isterim</string>
+    <string name="action_delete">Pek ilgimi çekmedi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profession">Profession</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+</resources>
